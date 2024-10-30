@@ -1,0 +1,321 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Keto Calculator\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-15 10:47+0000\n"
+"PO-Revision-Date: 2021-04-13 11:37+0000\n"
+"Last-Translator: \n"
+"Language-Team: Arabic\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100 >= 3 "
+"&& n%100<=10 ? 3 : n%100 >= 11 && n%100<=99 ? 4 : 5;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.0; wp-5.4.2"
+
+#: ketocalculator.php:60
+msgid "Activity Level"
+msgstr "مستوى النشاط"
+
+#: ketocalculator.php:38
+msgid "Age"
+msgstr "عمر"
+
+#: ketocalculator.php:67
+msgid "Athlete/Bodybuilder"
+msgstr "رياضي / لاعب كمال اجسام"
+
+#: ketocalculator.php:96
+msgid ""
+"Based on the amount of net carbs you specified, it would impossible to lose "
+"any weight. Please, reduce the amount of net carbs and try again."
+msgstr ""
+"بناءً على كمية الكربوهيدرات الصافية التي حددتها ، سيكون من المستحيل فقدان أي "
+"وزن. من فضلك ، قلل من كمية الكربوهيدرات الصافية وحاول مرة أخرى."
+
+#: ketocalculator.php:100
+msgid ""
+"Below is a range of calorie deficits to help you lose weight. For best "
+"results, it is recommended that you opt for a moderate calorie deficit of 10-"
+"20%."
+msgstr ""
+"يوجد أدناه مجموعة من عجز السعرات الحرارية لمساعدتك على إنقاص الوزن. للحصول "
+"على أفضل النتائج ، يوصى باختيار عجز معتدل في السعرات الحرارية بنسبة 10-20٪."
+
+#: ketocalculator.php:107
+msgid ""
+"Below is a range of calorie surpluses to help you bulk up and gain muscle "
+"size. Keep in mind that you will need to add physical activity (weight "
+"training) in order to increase your muscle mass. For best results, it is "
+"recommended that you opt for a moderate calorie surplus of 10-20%."
+msgstr ""
+"يوجد أدناه مجموعة من الفائض من السعرات الحرارية لمساعدتك على زيادة الوزن "
+"واكتساب حجم العضلات. ضع في اعتبارك أنك ستحتاج إلى إضافة نشاط بدني (تدريب "
+"الوزن) لزيادة كتلة عضلاتك. للحصول على أفضل النتائج ، يوصى باختيار فائض متوسط "
+"​​من السعرات الحرارية بنسبة 10-20٪."
+
+#: ketocalculator.php:72
+msgid "Body fat"
+msgstr "دهون الجسم"
+
+#: ketocalculator.php:117
+msgid "Calorie adjustment"
+msgstr "تعديل السعرات الحرارية"
+
+#: ketocalculator.php:108 ketocalculator.php:109 ketocalculator.php:110
+msgid "Calorie surplus"
+msgstr "فائض السعرات الحرارية"
+
+#: ketocalculator.php:81 ketocalculator.php:101 ketocalculator.php:102
+#: ketocalculator.php:103 ketocalculator.php:108 ketocalculator.php:109
+#: ketocalculator.php:110 ketocalculator.php:119
+msgid "Calories to consume"
+msgstr "استهلاك السعرات الحرارية"
+
+#: ketocalculator.php:137
+msgid "Calories to consume:"
+msgstr "السعرات الحرارية التي يجب استهلاكها:"
+
+#: ketocalculator.php:89
+msgid "Custom"
+msgstr "مخصص"
+
+#: ketocalculator.php:119
+#| msgid "Custom adjustment (0%)"
+msgid "Custom adjustment"
+msgstr "تعديل مخصص"
+
+#: ketocalculator.php:114
+msgid ""
+"Enter the calorie intake adjustment. For a calorie deficit (weight loss) "
+"enter a negative value (e.g. -10) while for a calorie surplus (weight gain) "
+"enter a positive value (e.g. 15)."
+msgstr ""
+"أدخل تعديل تناول السعرات الحرارية. بالنسبة لعجز السعرات الحرارية (فقدان "
+"الوزن) ، أدخل قيمة سالبة (على سبيل المثال -10) بينما أدخل فائضًا في السعرات "
+"الحرارية (زيادة الوزن) (مثل 15)."
+
+#: ketocalculator.php:81 ketocalculator.php:102 ketocalculator.php:103
+#: ketocalculator.php:108 ketocalculator.php:109 ketocalculator.php:110
+#: ketocalculator.php:142
+msgid "Fat"
+msgstr "سمين"
+
+#: ketocalculator.php:32
+msgid "Female"
+msgstr "أنثى"
+
+#: ketocalculator.php:29
+msgid "Gender"
+msgstr "جنس"
+
+#: ketocalculator.php:84
+msgid "Goal"
+msgstr "هدف"
+
+#: ketocalculator.php:74 ketocalculator.php:81 ketocalculator.php:81
+#: ketocalculator.php:81 ketocalculator.php:102 ketocalculator.php:102
+#: ketocalculator.php:102 ketocalculator.php:103 ketocalculator.php:103
+#: ketocalculator.php:103 ketocalculator.php:108 ketocalculator.php:108
+#: ketocalculator.php:108 ketocalculator.php:109 ketocalculator.php:109
+#: ketocalculator.php:109 ketocalculator.php:110 ketocalculator.php:110
+#: ketocalculator.php:110 ketocalculator.php:110 ketocalculator.php:119
+#: ketocalculator.php:119 ketocalculator.php:119 ketocalculator.php:143
+msgid "grams"
+msgstr "جرامات"
+
+#: ketocalculator.php:42 ketocalculator.php:48 ketocalculator.php:56
+msgid "Height"
+msgstr "ارتفاع"
+
+#. Author URI of the plugin
+msgid "http://therightsw.com/"
+msgstr ""
+
+#: ketocalculator.php:115
+msgid ""
+"It is recommended that you opt for a moderate calorie deficit or surplus."
+msgstr "من المستحسن أن تختار العجز أو الفائض المعتدل من السعرات الحرارية."
+
+#: ketocalculator.php:81 ketocalculator.php:102 ketocalculator.php:102
+#: ketocalculator.php:102 ketocalculator.php:103 ketocalculator.php:103
+#: ketocalculator.php:103 ketocalculator.php:103 ketocalculator.php:108
+#: ketocalculator.php:108 ketocalculator.php:108 ketocalculator.php:108
+#: ketocalculator.php:109 ketocalculator.php:109 ketocalculator.php:109
+#: ketocalculator.php:110 ketocalculator.php:110 ketocalculator.php:110
+#: ketocalculator.php:119 ketocalculator.php:119 ketocalculator.php:119
+#: ketocalculator.php:119 ketocalculator.php:119 ketocalculator.php:144
+msgid "kcal"
+msgstr ""
+"سعر حراري\n"
+
+#. Name of the plugin
+msgid "Keto Calculator"
+msgstr "حاسبة كيتو"
+
+#. Description of the plugin
+msgid ""
+"Keto Calculator is a simple calculator, which is used to measure your "
+"nutritional needs on a ketogenic diet. It helps users achieve their goal of "
+"healing, weight loss, performance and more."
+msgstr ""
+"Keto Calculator هي آلة حاسبة بسيطة تستخدم لقياس احتياجاتك الغذائية على نظام "
+"غذائي الكيتون. يساعد المستخدمين على تحقيق هدفهم المتمثل في الشفاء وفقدان "
+"الوزن والأداء والمزيد."
+
+#: ketocalculator.php:103
+#| msgid "Large calorie deficit (33%)"
+msgid "Large calorie deficit"
+msgstr "عجز كبير في السعرات الحرارية"
+
+#: ketocalculator.php:64
+msgid "Lightly active"
+msgstr "نشط طفيفة"
+
+#: ketocalculator.php:78
+msgid "Maintenance"
+msgstr "اعمال صيانة"
+
+#: ketocalculator.php:79
+msgid "Maintenance level is the level at which your weight remains stable."
+msgstr "مستوى الصيانة هو المستوى الذي يظل فيه وزنك ثابتًا."
+
+#: ketocalculator.php:33
+msgid "Male"
+msgstr "الذكر"
+
+#: ketocalculator.php:42
+msgid "meters (e.g. 1.76 meters = 176 cm)"
+msgstr "أمتار (مثل 1.76 متر = 176 سم)"
+
+#: ketocalculator.php:23
+msgid "Metric"
+msgstr "قياس"
+
+#: ketocalculator.php:102
+#| msgid "Moderate calorie deficit (22%)"
+msgid "Moderate calorie deficit"
+msgstr "عجز السعرات الحرارية المعتدل"
+
+#: ketocalculator.php:65
+msgid "Moderately active"
+msgstr "نشط إلى حد ما"
+
+#: ketocalculator.php:81 ketocalculator.php:102 ketocalculator.php:103
+#: ketocalculator.php:108 ketocalculator.php:109 ketocalculator.php:119
+#: ketocalculator.php:139
+msgid "Net Carbs"
+msgstr "صافي الكربوهيدرات"
+
+#: ketocalculator.php:74
+msgid "Net carbs"
+msgstr "صافي الكربوهيدرات"
+
+#: ketocalculator.php:81 ketocalculator.php:101 ketocalculator.php:102
+#: ketocalculator.php:103 ketocalculator.php:108 ketocalculator.php:109
+#: ketocalculator.php:110 ketocalculator.php:119 ketocalculator.php:141
+msgid "Protein"
+msgstr "بروتين"
+
+#: ketocalculator.php:77
+msgid "Results"
+msgstr "النتائج"
+
+#: ketocalculator.php:63
+msgid "Sedentary"
+msgstr ""
+"المستقرة\n"
+
+#: ketocalculator.php:101
+#| msgid "Small calorie deficit (11%)"
+msgid "Small calorie deficit"
+msgstr "عجز صغير في السعرات الحرارية"
+
+#: ketocalculator.php:94
+msgid ""
+"Sorry, cannot offer any weight loss suggestions. Please use the Custom "
+"section for weight loss macro targets."
+msgstr ""
+"عذرا ، لا يمكن أن تقدم أي اقتراحات لفقدان الوزن. يرجى استخدام القسم المخصص "
+"لأهداف الماكرو لفقدان الوزن."
+
+#: ketocalculator.php:17
+msgid ""
+"Specify the amount of daily net carbs you'd like to consume. Typically, 20-"
+"30 grams is recommended to start with."
+msgstr ""
+"حدد كمية الكربوهيدرات الصافية اليومية التي ترغب في تناولها. عادة ، يوصى بـ "
+"20-30 جرامًا للبدء."
+
+#. Author of the plugin
+msgid "TheRightSW"
+msgstr ""
+
+#: ketocalculator.php:20
+msgid "Units"
+msgstr "الوحدات"
+
+#: ketocalculator.php:24
+msgid "US Customary"
+msgstr ""
+"العرفي الأمريكي\n"
+
+#: ketocalculator.php:66
+msgid "Very active"
+msgstr ""
+"نشيط جدا\n"
+
+#: ketocalculator.php:41 ketocalculator.php:46 ketocalculator.php:53
+msgid "Weight"
+msgstr "وزن"
+
+#: ketocalculator.php:88
+msgid "Weight gain"
+msgstr ""
+"زيادة الوزن\n"
+
+#: ketocalculator.php:87
+msgid "Weight loss"
+msgstr "فقدان الوزن"
+
+#: ketocalculator.php:38
+msgid "years"
+msgstr ""
+"سنوات\n"
+
+#: ketocalculator.php:119
+msgid "Your BMR is"
+msgstr "BMR الخاص بك هو"
+
+#: ketocalculator.php:81 ketocalculator.php:136
+msgid "Your BMR is:"
+msgstr "BMR الخاص بك هو:"
+
+#: ketocalculator.php:95
+#, php-format
+msgid ""
+"Your body fat is too low. You should have a minimum of <span "
+"class=\"kdbEssentialFat\">3</span>% body fat (essential fat you cannot lose)."
+" <em>It is not advisable for you to lose any more weight."
+msgstr ""
+"الدهون في الجسم منخفضة للغاية. يجب أن يكون لديك <span class = "
+"\"kdbEssentialFat\"> 3 </span>٪ على الأقل من الدهون في الجسم (الدهون "
+"الأساسية التي لا يمكن أن تفقدها). <em> ليس من المستحسن أن تخسر المزيد من "
+"الوزن."
+
+#: ketocalculator.php:101 ketocalculator.php:102 ketocalculator.php:103
+#: ketocalculator.php:108 ketocalculator.php:109 ketocalculator.php:110
+#: ketocalculator.php:119
+msgid "Your fat intake should be"
+msgstr "يجب أن يكون تناول الدهون الخاصة بك"
+
+#: ketocalculator.php:81 ketocalculator.php:138
+msgid "Your fat intake should be:"
+msgstr "يجب أن يكون تناول الدهون:"
+
+#: ketocalculator.php:140
+msgid "Your net carbs intake is:"
+msgstr ""
+"صافي استهلاكك من الكربوهيدرات هو:\n"

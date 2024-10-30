@@ -1,0 +1,314 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Keto Calculator\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-15 10:47+0000\n"
+"PO-Revision-Date: 2021-04-13 11:32+0000\n"
+"Last-Translator: test test\n"
+"Language-Team: Nederlands\n"
+"Language: nl_NL\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.2; wp-5.7"
+
+#: ketocalculator.php:60
+msgid "Activity Level"
+msgstr "Activiteiten niveau"
+
+#: ketocalculator.php:38
+msgid "Age"
+msgstr "Leeftijd"
+
+#: ketocalculator.php:67
+msgid "Athlete/Bodybuilder"
+msgstr "Atleet / Bodybuilder"
+
+#: ketocalculator.php:96
+msgid ""
+"Based on the amount of net carbs you specified, it would impossible to lose "
+"any weight. Please, reduce the amount of net carbs and try again."
+msgstr ""
+"Op basis van de hoeveelheid netto-koolhydraten die u hebt opgegeven, is het "
+"onmogelijk om gewicht te verliezen. Verminder alsjeblieft het aantal netto "
+"koolhydraten en probeer het opnieuw."
+
+#: ketocalculator.php:100
+msgid ""
+"Below is a range of calorie deficits to help you lose weight. For best "
+"results, it is recommended that you opt for a moderate calorie deficit of 10-"
+"20%."
+msgstr ""
+"Hieronder vindt u een reeks calorietekorten om u te helpen gewicht te "
+"verliezen. Voor het beste resultaat is het aan te raden om te kiezen voor "
+"een matig calorietekort van 10-20%."
+
+#: ketocalculator.php:107
+msgid ""
+"Below is a range of calorie surpluses to help you bulk up and gain muscle "
+"size. Keep in mind that you will need to add physical activity (weight "
+"training) in order to increase your muscle mass. For best results, it is "
+"recommended that you opt for a moderate calorie surplus of 10-20%."
+msgstr ""
+"Hieronder vindt u een reeks calorie-overschotten om u te helpen uw spieren "
+"op te bouwen en te vergroten. Houd er rekening mee dat je fysieke activiteit "
+"(krachttraining) moet toevoegen om je spiermassa te vergroten. Voor het "
+"beste resultaat is het aan te raden om te kiezen voor een matig calorie-"
+"overschot van 10-20%."
+
+#: ketocalculator.php:72
+msgid "Body fat"
+msgstr "Lichaamsvet"
+
+#: ketocalculator.php:117
+msgid "Calorie adjustment"
+msgstr "Calorie-aanpassing"
+
+#: ketocalculator.php:108 ketocalculator.php:109 ketocalculator.php:110
+msgid "Calorie surplus"
+msgstr "Calorie-overschot"
+
+#: ketocalculator.php:81 ketocalculator.php:101 ketocalculator.php:102
+#: ketocalculator.php:103 ketocalculator.php:108 ketocalculator.php:109
+#: ketocalculator.php:110 ketocalculator.php:119
+msgid "Calories to consume"
+msgstr "Calorieën om te consumeren"
+
+#: ketocalculator.php:137
+msgid "Calories to consume:"
+msgstr "Calorieën om te consumeren:"
+
+#: ketocalculator.php:89
+msgid "Custom"
+msgstr "Op maat"
+
+#: ketocalculator.php:119
+msgid "Custom adjustment"
+msgstr "Calorie-aanpassing"
+
+#: ketocalculator.php:114
+msgid ""
+"Enter the calorie intake adjustment. For a calorie deficit (weight loss) "
+"enter a negative value (e.g. -10) while for a calorie surplus (weight gain) "
+"enter a positive value (e.g. 15)."
+msgstr ""
+"Voer de aanpassing van de calorie-inname in. Voer voor een calorietekort "
+"(gewichtsverlies) een negatieve waarde in (bijv. -10) en voor een calorie-"
+"overschot (gewichtstoename) een positieve waarde (bijvoorbeeld 15)."
+
+#: ketocalculator.php:81 ketocalculator.php:102 ketocalculator.php:103
+#: ketocalculator.php:108 ketocalculator.php:109 ketocalculator.php:110
+#: ketocalculator.php:142
+msgid "Fat"
+msgstr "Vet"
+
+#: ketocalculator.php:32
+msgid "Female"
+msgstr "Vrouw"
+
+#: ketocalculator.php:29
+msgid "Gender"
+msgstr "Geslacht"
+
+#: ketocalculator.php:84
+msgid "Goal"
+msgstr "Doel"
+
+#: ketocalculator.php:74 ketocalculator.php:81 ketocalculator.php:81
+#: ketocalculator.php:81 ketocalculator.php:102 ketocalculator.php:102
+#: ketocalculator.php:102 ketocalculator.php:103 ketocalculator.php:103
+#: ketocalculator.php:103 ketocalculator.php:108 ketocalculator.php:108
+#: ketocalculator.php:108 ketocalculator.php:109 ketocalculator.php:109
+#: ketocalculator.php:109 ketocalculator.php:110 ketocalculator.php:110
+#: ketocalculator.php:110 ketocalculator.php:110 ketocalculator.php:119
+#: ketocalculator.php:119 ketocalculator.php:119 ketocalculator.php:143
+msgid "grams"
+msgstr "gram"
+
+#: ketocalculator.php:42 ketocalculator.php:48 ketocalculator.php:56
+msgid "Height"
+msgstr "Hoogte"
+
+#. Author URI of the plugin
+msgid "http://therightsw.com/"
+msgstr ""
+
+#: ketocalculator.php:115
+msgid ""
+"It is recommended that you opt for a moderate calorie deficit or surplus."
+msgstr ""
+"Het is aan te raden om te kiezen voor een matig calorietekort of een "
+"overschot."
+
+#: ketocalculator.php:81 ketocalculator.php:102 ketocalculator.php:102
+#: ketocalculator.php:102 ketocalculator.php:103 ketocalculator.php:103
+#: ketocalculator.php:103 ketocalculator.php:103 ketocalculator.php:108
+#: ketocalculator.php:108 ketocalculator.php:108 ketocalculator.php:108
+#: ketocalculator.php:109 ketocalculator.php:109 ketocalculator.php:109
+#: ketocalculator.php:110 ketocalculator.php:110 ketocalculator.php:110
+#: ketocalculator.php:119 ketocalculator.php:119 ketocalculator.php:119
+#: ketocalculator.php:119 ketocalculator.php:119 ketocalculator.php:144
+msgid "kcal"
+msgstr "kcal"
+
+#. Name of the plugin
+msgid "Keto Calculator"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Keto Calculator is a simple calculator, which is used to measure your "
+"nutritional needs on a ketogenic diet. It helps users achieve their goal of "
+"healing, weight loss, performance and more."
+msgstr ""
+"Keto Calculator is een eenvoudige rekenmachine die wordt gebruikt om uw "
+"voedingsbehoeften op een ketogeen dieet te meten. Het helpt gebruikers hun "
+"doel van genezing, gewichtsverlies, prestaties en meer te bereiken."
+
+#: ketocalculator.php:103
+msgid "Large calorie deficit"
+msgstr "Snel afvallen"
+
+#: ketocalculator.php:64
+msgid "Lightly active"
+msgstr "Lichtelijk actief"
+
+#: ketocalculator.php:78
+msgid "Maintenance"
+msgstr "Onderhoud"
+
+#: ketocalculator.php:79
+msgid "Maintenance level is the level at which your weight remains stable."
+msgstr "Onderhoudsniveau is het niveau waarop uw gewicht stabiel blijft."
+
+#: ketocalculator.php:33
+msgid "Male"
+msgstr "Man"
+
+#: ketocalculator.php:42
+msgid "meters (e.g. 1.76 meters = 176 cm)"
+msgstr "meter (bijv. 1,76 meter = 176 cm)"
+
+#: ketocalculator.php:23
+msgid "Metric"
+msgstr "Metriek"
+
+#: ketocalculator.php:102
+msgid "Moderate calorie deficit"
+msgstr "Gemiddeld snel afvallen"
+
+#: ketocalculator.php:65
+msgid "Moderately active"
+msgstr "Redelijk actief"
+
+#: ketocalculator.php:81 ketocalculator.php:102 ketocalculator.php:103
+#: ketocalculator.php:108 ketocalculator.php:109 ketocalculator.php:119
+#: ketocalculator.php:139
+msgid "Net Carbs"
+msgstr "Koolhydraten"
+
+#: ketocalculator.php:74
+msgid "Net carbs"
+msgstr "Koolhydraten"
+
+#: ketocalculator.php:81 ketocalculator.php:101 ketocalculator.php:102
+#: ketocalculator.php:103 ketocalculator.php:108 ketocalculator.php:109
+#: ketocalculator.php:110 ketocalculator.php:119 ketocalculator.php:141
+msgid "Protein"
+msgstr "Eiwit"
+
+#: ketocalculator.php:77
+msgid "Results"
+msgstr "Resultaten"
+
+#: ketocalculator.php:63
+msgid "Sedentary"
+msgstr "Niet actief"
+
+#: ketocalculator.php:101
+msgid "Small calorie deficit"
+msgstr "Langzaam afvallen"
+
+#: ketocalculator.php:94
+msgid ""
+"Sorry, cannot offer any weight loss suggestions. Please use the Custom "
+"section for weight loss macro targets."
+msgstr ""
+"Sorry, ik kan geen suggesties voor gewichtsverlies aanbieden. Gebruik de "
+"aangepaste sectie voor macrodoelen voor gewichtsverlies."
+
+#: ketocalculator.php:17
+msgid ""
+"Specify the amount of daily net carbs you'd like to consume. Typically, 20-"
+"30 grams is recommended to start with."
+msgstr ""
+"Geef het aantal dagelijkse netto-koolhydraten op dat u wilt consumeren. "
+"Meestal wordt 20-30 gram aanbevolen om mee te beginnen."
+
+#. Author of the plugin
+msgid "TheRightSW"
+msgstr ""
+
+#: ketocalculator.php:20
+msgid "Units"
+msgstr "Eenheden"
+
+#: ketocalculator.php:24
+msgid "US Customary"
+msgstr "Amerikaanse gewoonte"
+
+#: ketocalculator.php:66
+msgid "Very active"
+msgstr "Heel actief"
+
+#: ketocalculator.php:41 ketocalculator.php:46 ketocalculator.php:53
+msgid "Weight"
+msgstr "Gewicht"
+
+#: ketocalculator.php:88
+msgid "Weight gain"
+msgstr "Gewichtstoename"
+
+#: ketocalculator.php:87
+msgid "Weight loss"
+msgstr "Gewichtsverlies"
+
+#: ketocalculator.php:38
+msgid "years"
+msgstr "jaar"
+
+#: ketocalculator.php:119
+msgid "Your BMR is"
+msgstr "Je BMR is"
+
+#: ketocalculator.php:81 ketocalculator.php:136
+msgid "Your BMR is:"
+msgstr "Je BMR is:"
+
+#: ketocalculator.php:95
+#, php-format
+msgid ""
+"Your body fat is too low. You should have a minimum of <span "
+"class=\"kdbEssentialFat\">3</span>% body fat (essential fat you cannot lose)."
+" <em>It is not advisable for you to lose any more weight."
+msgstr ""
+"Je lichaamsvet is te laag. U moet minimaal <span class = \"kdbEssentialFat\">"
+" 3 </span> lichaamsvet hebben (essentieel vet dat u niet kunt verliezen). "
+"<em> Het is niet aan te raden om meer af te vallen.\n"
+
+#: ketocalculator.php:101 ketocalculator.php:102 ketocalculator.php:103
+#: ketocalculator.php:108 ketocalculator.php:109 ketocalculator.php:110
+#: ketocalculator.php:119
+msgid "Your fat intake should be"
+msgstr "Je vetinname zou moeten zijn"
+
+#: ketocalculator.php:81 ketocalculator.php:138
+msgid "Your fat intake should be:"
+msgstr "Je vetinname moet zijn:"
+
+#: ketocalculator.php:140
+msgid "Your net carbs intake is:"
+msgstr ""
+"Je netto-inname van koolhydraten is:\n"
